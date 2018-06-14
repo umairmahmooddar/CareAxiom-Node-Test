@@ -1,0 +1,20 @@
+{
+  "name": "forinterview",
+  "version": "1.0.0rc",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "opn": "^5.3.0",
+    "prompt": "^1.0.0",
+    "requestify": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "author": "Umair Mahmood Dar",
+  "license": "MIT"
+}
